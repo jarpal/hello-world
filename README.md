@@ -1,2 +1,2 @@
 # hello-world
-to jest repozytorium testowe testowe
+to jest repozytorium testowe
